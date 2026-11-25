@@ -1,4 +1,4 @@
-# Kodlarını terminale parantez içerisinde bulunan kodu yazarak çalıştırınız  (& "$env:LOCALAPPDATA\Python\pythoncore-3.14-64\python.exe" -m streamlit run "$env:USERPROFILE\Desktop\giyim_analiz.py")
+# terminale parantez içerisinde bulunan kodu yazarak çalıştırınız  (& "$env:LOCALAPPDATA\Python\pythoncore-3.14-64\python.exe" -m streamlit run "$env:USERPROFILE\Desktop\giyim_analiz.py")
 
 
 import json
